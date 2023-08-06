@@ -1,0 +1,16 @@
+{
+  "name": "vite-plugin-html-inline-sprite-svg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-glob": "^3.3.1",
+    "kolorist": "^1.8.0",
+    "svg-sprite": "^2.0.2"
+  }
+}
